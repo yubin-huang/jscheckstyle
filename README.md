@@ -44,3 +44,5 @@ For example:
 ## History
 Originally I started out modifying [jsmeter](http://jsmeter.info) to run as a command-line tool. Then I started hacking away, added some tests, the command-line interface, added the rules checking and the extra output types, replaced the parser with [node-burrito](https://github.com/substack/node-burrito) and then realised there wasn't much of jsmeter left. So this tool is inspired by, and owes a huge debt to, jsmeter - but there's very little of the original code to be found (possibly only the HTML output renderer).
 
+
+# 计算圈复杂度的工具
